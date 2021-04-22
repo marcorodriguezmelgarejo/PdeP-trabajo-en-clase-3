@@ -1,3 +1,1 @@
-# Proyecto Base
-
-Reemplazar por alguna descripción del proyecto.
+# Ejercicio clase 3
